@@ -1,3 +1,11 @@
+### 0. Configurar environments
+```
+DB_HOST=mysql
+DB_USER=admin
+DB_PASS=admin123
+DB_NAME=malaria_db
+```
+
 ### 1. Ejecutar con Docker Compose
 
 ```bash
